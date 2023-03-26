@@ -1,0 +1,7 @@
+Have you ever thought of starting a core php project at a specific port like 8000,8080 or any other free port?
+Its possible here is an example on how you can go about it.
+
+php -S localhost:8001 -t C:\xampp\htdocs\my-project
+
+Cheers. 
+Happy Coding.
